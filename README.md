@@ -1,12 +1,9 @@
 # KEST2V_verk2
 
 # Snúrugerð og skýrsla
-==========================
-==========================
+
 
 ## skýrsla 
-=============
-=============
 Í dag í skólanum vorum við að búa til ethernet kapall (stuttan 20-30 cm) af B gerð (beint í gegn) og einnig ethernet kapall (stuttan 20-30 cm) af B gerð í A gerð (kross). Kennarinn byrjaði á því að útskýra fyrir okkur hvað við þyrftum að gera. Hann rétti okkur kaplana og RJ-45 hausinn sem átti að tengja þá saman við kapalinn. Ég byrjaði á að gera B útgáfuna fyrst. Það var erfitt í byrjun að raða þeim í rétta röð en mér tókst að gera það rétt. Það voru myndir af fullunnu verki mínu alla leið niður og ég notaði verkfæri eins og klemmubúnað, klippitæki til að klippa vírana og röndunarvél til að setja (verndar)lagið á vírinn. Ég náði að gera bæði rétt og ég vissi að með því að nota vél sem hjálpar til við að athuga hvort vírarnir og tengingin væru rétt og að það virkaði. Svo fór ég yfir í A útgáfuna og við þurftum að blanda B og A saman. og mér tókst að gera það og það endaði á því að virka rétt svo ég athugaði það, tók myndir af öllum verkfærunum sem ég notaði og mynd af því svo það virkaði og það var eiginlega allt og sumt og þannig lærði ég að B útgáfan þarf að hafa ákveðna röð víra sem er 
 | Pin | Type A | Type B |
 |-----|--------|--------|
@@ -34,9 +31,9 @@
 
 ### images 
 #### Hérna niðri eru sýndar myndir af öllu sem ég notaði og kaplunum mínum og hvernig þær virka
-====================================================
-====================================================
+______________________
 
+!()[]
 
 
 
