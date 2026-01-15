@@ -32,8 +32,22 @@
 ### images 
 #### Hérna niðri eru sýndar myndir af öllu sem ég notaði og kaplunum mínum og hvernig þær virka
 ______________________
-
-!()[]
+# Þessi mynd sýnir einn hluta af B-kaplinum eftir að það var búið
+![capel](imgs/caple.jpeg)
+# þessi mynd sýnir hinn hluta B-kaplinum  eftir að það er búið
+![capel](imgs/caple3.jpeg)
+# þetta sýnir að þau tvö eru kláruð
+![capel](imgs/caple2.jpeg)
+Þetta sýnir restina af verkfærunum sem ég notaði til að klára þetta verkefni
+![tools](imgs/tools.jpeg)
+# Þessi mynd sýnir nokkur af verkfærunum sem ég notaði og rj45 tengi
+![tools](imgs/tools2.jpeg)
+# Þessi mynd sýnir að þau virka en ég notaði nýrra tæki sem reyndar kinkaði og sá hvort tengingin virkaði og það virkaði 2 passar við 6
+![working](imgs/working.jpeg)
+# Þessi mynd sýnir að þau virka en ég notaði nýrra tæki sem reyndar kinkaði og sá hvort tengingin virkaði og það virkaði 1 passar við 3
+![working](imgs/working2.jpeg)
+# Þessi mynd sýnir að kaplarnir virka og eru alveg í lagi
+![working](imgs/working3.jpeg)
 
 
 
