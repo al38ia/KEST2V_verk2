@@ -18,8 +18,6 @@
 
 ## munurinn á CAT5e og CAT6 ethernetkapli
 
-### Difference Between CAT5e and CAT6 Ethernet Cables
-
 | Feature | CAT5e | CAT6 |
 |--------|-------|------|
 | Maximum speed | Up to 1 Gbps | Up to 10 Gbps (short distances) |
